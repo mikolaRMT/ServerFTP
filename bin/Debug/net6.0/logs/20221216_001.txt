@@ -1,0 +1,13 @@
+2022-12-16 16:41:52.061 +03:00 [DBG] Сервер запущен.
+2022-12-16 16:41:52.115 +03:00 [ERR] Something went wrong
+System.Net.Sockets.SocketException (10048): Обычно разрешается только одно использование адреса сокета (протокол/сетевой адрес/порт).
+   at System.Net.Sockets.Socket.UpdateStatusAfterSocketErrorAndThrowException(SocketError error, String callerName)
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at System.Net.Sockets.TcpListener.Start(Int32 backlog)
+   at System.Net.Sockets.TcpListener.Start()
+   at ServerFTP.Server.Server.Start() in C:\Users\Admin\Documents\GitHub\FTP_S\ServerFTP\Server\Program.cs:line 34
+   at ServerFTP.Server.Program.Main(String[] args) in C:\Users\Admin\Documents\GitHub\FTP_S\ServerFTP\Server\Program.cs:line 343
+2022-12-16 16:41:59.223 +03:00 [DBG] Сервер запущен.
+2022-12-16 16:42:11.019 +03:00 [DBG] Сервер запущен.
+2022-12-16 16:42:39.564 +03:00 [DBG] Сервер запущен.

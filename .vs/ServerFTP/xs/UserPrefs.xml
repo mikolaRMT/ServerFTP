@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{39F2430E-9046-4C4B-A326-221883684631}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Server/Client.cs">
+    <Files>
+      <File FileName="Server/Program.cs" Line="234" Column="8" />
+      <File FileName="DB/MongoDataBase.cs" />
+      <File FileName="Server/Client.cs" Line="172" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ServerFTP" expanded="True">
+            <Node name="ServerFTP" expanded="True">
+              <Node name="DB" expanded="True" />
+              <Node name="Server" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ServerFTP PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

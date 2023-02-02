@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "j2S8Fv+I9eXNCIz9h7rnITMmwhf21OuTwO0EhpNsxlu5U4eZzWNa5QmhFP0X72hw9NkGhIP10dsiQhg72upr+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kopis\\Desktop\\ServerFTP\\ServerFTP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kopis\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
+    "C:\\Users\\kopis\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\kopis\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\kopis\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\kopis\\.nuget\\packages\\mongodb.bson\\2.18.0\\mongodb.bson.2.18.0.nupkg.sha512",
+    "C:\\Users\\kopis\\.nuget\\packages\\mongodb.driver\\2.18.0\\mongodb.driver.2.18.0.nupkg.sha512",
+    "C:\\Users\\kopis\\.nuget\\packages\\mongodb.driver.core\\2.18.0\\mongodb.driver.core.2.18.0.nupkg.sha512",
+    "C:\\Users\\kopis\\.nuget\\packages\\mongodb.driver.gridfs\\2.18.0\\mongodb.driver.gridfs.2.18.0.nupkg.sha512",
+    "C:\\Users\\kopis\\.nuget\\packages\\mongodb.libmongocrypt\\1.6.0\\mongodb.libmongocrypt.1.6.0.nupkg.sha512",
+    "C:\\Users\\kopis\\.nuget\\packages\\serilog\\2.12.0\\serilog.2.12.0.nupkg.sha512",
+    "C:\\Users\\kopis\\.nuget\\packages\\serilog.sinks.console\\4.1.0\\serilog.sinks.console.4.1.0.nupkg.sha512",
+    "C:\\Users\\kopis\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512",
+    "C:\\Users\\kopis\\.nuget\\packages\\sharpcompress\\0.30.1\\sharpcompress.0.30.1.nupkg.sha512",
+    "C:\\Users\\kopis\\.nuget\\packages\\snappier\\1.0.0\\snappier.1.0.0.nupkg.sha512",
+    "C:\\Users\\kopis\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\kopis\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\kopis\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\kopis\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\kopis\\.nuget\\packages\\zstdsharp.port\\0.6.2\\zstdsharp.port.0.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}
